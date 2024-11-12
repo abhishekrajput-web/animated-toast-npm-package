@@ -1,6 +1,6 @@
 # Animated Toast Notification React Package
 
-## Overview
+## Overview (<a href="https://www.npmjs.com/package/animated-toast">NPM Package Link</a>)
 
 This package provides customizable and animated toast notifications for React applications. It allows you to display notifications with different types, durations, and positions. The package uses **CSS animations** for smooth and dynamic transitions and comes with multiple features like customizable toast types, positioning, and auto-dismiss functionality.
 
