@@ -1,0 +1,23 @@
+{
+  "name": "animated-toast",
+  "version": "1.1.4",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "toast",
+    "notification",
+    "animated",
+    "UI",
+    "alert",
+    "react-toast"
+  ],
+  "author": "Abhishek",
+  "license": "MIT",
+  "description": "A simple and animated toast notification component for React with customizable message types and durations",
+  "dependencies": {
+    "animate.css": "^4.1.1"
+  }
+}
